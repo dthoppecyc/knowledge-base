@@ -7,4 +7,4 @@ Here are some common issues and how to fix them.
 - Permission errors
 - Unexpected behavior
 
-For security issues, see [Enable 2FA](how-to/enable-2fa.md).
+For security issues, see [Enable 2FA](/how-to/enable-2fa.md).

@@ -4,10 +4,10 @@
 Welcome to the internal knowledge base. Use the links below to access common help articles:
 
 ## Getting Started
-- [Getting Started Guide](getting-started.md)
+- [Getting Started Guide](getting-started/index.md)
 
 ## Troubleshooting
-- [Common Issues](troubleshooting.md)
+- [Common Issues](troubleshooting/index.md)
 
 ## How-To Guides
 - [Reset Password](how-to/reset-password.md)
