@@ -25,3 +25,13 @@ If you’ve forgotten your Azure DevOps password or need to change it for securi
 
 - [How to enable 2FA in Azure DevOps](enable-2fa.md)
 - [Troubleshooting login errors](../troubleshooting/agent-errors.md)
+
+# How to Reset Your Password
+
+If you’ve forgotten your password, follow these steps:
+
+1. Go to the login page
+2. Click **Forgot password**
+3. Follow the instructions sent to your email
+
+Need to strengthen security? [Enable 2FA](enable-2fa.md)
